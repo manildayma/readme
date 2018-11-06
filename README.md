@@ -9,4 +9,7 @@ use '#' before any line to make a heading1 '##' for heading2 and so on..
 
 double enter to show distinct paragraphs. 
 
+*italic*
+use start at start and end of the word or sentence to show it in italic. * *example* *
+
 
