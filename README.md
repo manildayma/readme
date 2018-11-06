@@ -1,6 +1,13 @@
 ### ** **Learn how to manage your README.md file with markdown.** **
 -----
 
+# DESCRIPTION :
+
+*readme* file uses extension of *.md* which stands for **markdwon**. This is used for documentation work on github and various other  places.
+
+-----
+
+
 # heading 1 
 
 use '#' before any line to make a heading1 '##' for heading2 and so on. There should be a space between '#' and the heading
