@@ -3,17 +3,17 @@
 
 # heading 1 
 
-use '#' before any line to make a heading1 '##' for heading2 and so on..
+use '#' before any line to make a heading1 '##' for heading2 and so on. There should be a space between '#' and the heading
 
 ## heading 2
 
 double enter to show distinct paragraphs. 
 
 ## *italic*
-use start at start and end of the word or sentence to show it in italic. * *example* *
+use star at start and end of the word or sentence to show it in italic. * *example* *. There should be no space between the star and the word or sentence.
 
 ## **bold**
 
-just like italics, use double star to show bold letters.  ** **bold** **
+just like italics, use double star to show bold letters.  ** **bold** ** . There should be no space between the star and the word or sentence.
 
 
