@@ -23,4 +23,10 @@ use star at start and end of the word or sentence to show it in italic. * *examp
 
 just like italics, use double star to show bold letters.  ** **bold** ** . There should be no space between the star and the word or sentence.
 
+## **To Add A Link**
+
+
+
+## **To Add An Image**
+
 
