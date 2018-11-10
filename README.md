@@ -60,6 +60,11 @@ Just add a star '*' or a plus '+' in from of the point or item you want to list.
 
 ## **Bulletts**
 
+*example : *
+
++ Manil
++ Shivani
++ Shubham
 
 
 
