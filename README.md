@@ -35,19 +35,15 @@ just like italics, use double star to show bold letters.  ** **bold** ** . There
 
 
 
-## ** Ordered Lists **
+## Ordered Lists
 
 
 
-## ** Unordered Lists **
+## Unordered Lists 
 
 
 
 ## **Bulletts**
-
-
-
-## **Threats**
 
 
 
