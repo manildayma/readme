@@ -37,9 +37,18 @@ just like italics, use double star to show bold letters.  ** **bold** ** . There
 
 ## Ordered Lists
 
+Just add a number in from of the point or item you want to list.
+
+*example : *
+
+1. Manil
+1. Shivani
+1. Shubham
+
 
 
 ## Unordered Lists 
+
 
 
 
@@ -47,11 +56,9 @@ just like italics, use double star to show bold letters.  ** **bold** ** . There
 
 
 
-## **Threats**
-
-
 
 ## **Lines**
+
 
 
 
@@ -59,7 +66,9 @@ just like italics, use double star to show bold letters.  ** **bold** ** . There
 
 
 
+
 ## **Blockquotes**
+
 
 
 
