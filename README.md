@@ -47,20 +47,17 @@ Just add a number in from of the point or item you want to list. Numbers need no
 
 
 
-## Unordered Lists 
+## Unordered Lists / Bullets
 
 Just add a star '*' or a plus '+' in from of the point or item you want to list.
 
-*example : *
+*example : * (star '*' is added in front of every name here)
 
 * Manil
 * Shivani
 * Shubham
 
-
-## **Bulletts**
-
-*example : *
+*example : * ( plus '+' is added in front of every name here.)
 
 + Manil
 + Shivani
