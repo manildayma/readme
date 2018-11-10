@@ -37,7 +37,7 @@ just like italics, use double star to show bold letters.  ** **bold** ** . There
 
 ## Ordered Lists
 
-Just add a number in from of the point or item you want to list.
+Just add a number in from of the point or item you want to list. Numbers need not be any order. For simplicity put a same number in front of the point, i.e, put '1' in front of every point to make an ordered list.
 
 *example : *
 
@@ -49,7 +49,13 @@ Just add a number in from of the point or item you want to list.
 
 ## Unordered Lists 
 
+Just add a star '*' or a plus '+' in from of the point or item you want to list.
 
+*example : *
+
+* Manil
+* Shivani
+* Shubham
 
 
 ## **Bulletts**
