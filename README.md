@@ -39,7 +39,7 @@ just like italics, use double star to show bold letters.  ** **bold** ** . There
 
 
 
-## **Bulletsts**
+## **Bulletts**
 
 
 
