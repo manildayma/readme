@@ -8,18 +8,18 @@
 -----
 
 
-# heading 1 
+# Heading 1 
 
 use '#' before any line to make a heading1 '##' for heading2 and so on. There should be a space between '#' and the heading
 
-## heading 2
+## Heading 2
 
 double enter to show distinct paragraphs. 
 
-## *italic*
+## *Italic*
 use star at start and end of the word or sentence to show it in italic. * *example* *. There should be no space between the star and the word or sentence.
 
-## **bold**
+## **Bold**
 
 just like italics, use double star to show bold letters.  ** **bold** ** . There should be no space between the star and the word or sentence.
 
@@ -39,7 +39,8 @@ just like italics, use double star to show bold letters.  ** **bold** ** . There
 
 Just add a number in from of the point or item you want to list. Numbers need not be any order. For simplicity put a same number in front of the point, i.e, put '1' in front of every point to make an ordered list.
 
-*example : *
+*example :*  (here, '1'is put in fron to every name which gets into orderes list my MARKDOWN)  
+
 
 1. Manil
 1. Shivani
@@ -51,13 +52,13 @@ Just add a number in from of the point or item you want to list. Numbers need no
 
 Just add a star '*' or a plus '+' in from of the point or item you want to list.
 
-*example : * (star '*' is added in front of every name here)
+*example :* (here, star '*' is added in front of every name here)
 
 * Manil
 * Shivani
 * Shubham
 
-*example : * ( plus '+' is added in front of every name here.)
+*example :* (here, plus '+' is added in front of every name here.)
 
 + Manil
 + Shivani
