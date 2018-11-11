@@ -73,7 +73,7 @@ Just add a star '*' or a plus '+' in from of the point or item you want to list.
 
 ## **Breaks**
 
-
+To add a break in between the line we simply hit enter key twice. 
 
 
 ## **Blockquotes**
