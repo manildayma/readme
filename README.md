@@ -26,7 +26,6 @@ just like italics, use double star to show bold letters.  ** **bold** ** . There
 ## **To Add A Link**
 
 
-
 ## **To Add An Image**
 
 
@@ -68,7 +67,7 @@ Just add a star '*' or a plus '+' in from of the point or item you want to list.
 
 ## **Lines**
 
-
+Double enter to add a line... to separat paragraphs. 
 
 
 ## **Breaks**
