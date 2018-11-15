@@ -31,7 +31,14 @@ just like italics, use double star to show bold letters.  ** **bold** ** . There
 
 
 ## **To Add A Table**
+|NAME|ROLL NO|
+|:----|:----|
+|Manil|012|
+|Shivani|412|
 
+Add the word between the pipes to put it in a table. 
+
+Use "|:---". under every heading. 
 
 
 ## Ordered Lists
