@@ -38,7 +38,14 @@ just like italics, use double star to show bold letters.  ** **bold** ** . There
 
 Add the word between the pipes to put it in a table. 
 
-Use "|:---". under every heading. 
+Use "|:---". under every heading.
+Colen is to align the text. put Colen on left 
+for left alignment and on right for right
+alignment. 
+
+TO add another row simply hit enter and
+follow the same rule... to put word between
+the pipes. example <pipe><word><pipe><word><pipe>
 
 
 ## Ordered Lists
