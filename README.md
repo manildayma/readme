@@ -45,7 +45,9 @@ alignment.
 
 TO add another row simply hit enter and
 follow the same rule... to put word between
-the pipes. example <pipe><word><pipe><word><pipe>
+the pipes.
+
+example:  pipe word pipe word pipe
 
 
 ## Ordered Lists
