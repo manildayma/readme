@@ -25,14 +25,21 @@ just like italics, use double star to show bold letters.  ** **bold** ** . There
 
 ## **To Add A Link**
 
-To add a link just wrao the link in saaur brackets.
+To add a link just wrap the link in angular brackets.
 
 Syntax :  bracket link bracket  (withiut any spaces netween the link and bracket)
 
-[github.com/manildayma]
+<http://www.github.com/manildayma>
 
+To make a word clickable... first wrap the word(s) in sqaure braces and
+then right beside it add link in normal braces.
+
+Syntax :  square word square normal_brace link normal_brace
+
+[Manil Dayma](http://www.github.com/manildayma)
 
 ## **To Add An Image**
+
 
 
 
