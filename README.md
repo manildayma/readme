@@ -25,6 +25,12 @@ just like italics, use double star to show bold letters.  ** **bold** ** . There
 
 ## **To Add A Link**
 
+To add a link just wrao the link in saaur brackets.
+
+Syntax :  bracket link bracket  (withiut any spaces netween the link and bracket)
+
+[githb.com/manildayma]
+
 
 ## **To Add An Image**
 
