@@ -38,6 +38,16 @@ Syntax :  square word square normal_brace link normal_brace
 
 [Manil Dayma](http://www.github.com/manildayma)
 
+To show brief description when hovering over
+the clickable words. Similar to syntax above,
+just add th description in inverted commas in
+the last braces after link.
+
+
+[Manil Dayma](http://www.github.com/manildayma "This is my GitHub profile" )
+
+
+
 ## **To Add An Image**
 
 
