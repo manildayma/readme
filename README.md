@@ -27,7 +27,7 @@ just like italics, use double star to show bold letters.  ** **bold** ** . There
 
 To add a link just wrap the link in angular brackets.
 
-Syntax :  bracket link bracket  (withiut any spaces netween the link and bracket)
+Syntax :  bracket link bracket  (without any spaces netween the link and bracket)
 
 <http://www.github.com/manildayma>
 
