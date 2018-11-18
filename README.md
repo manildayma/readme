@@ -121,7 +121,7 @@ To add a break in between the line we simply hit enter key twice.
 
 ## **Check Lists**
 
-* [] one 
-* [] two 
-* [x] three
-* [] 
+[] one 
+[] two 
+[x] three
+[] four
