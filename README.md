@@ -31,18 +31,13 @@ Syntax :  bracket link bracket  (without any spaces netween the link and bracket
 
 <http://www.github.com/manildayma>
 
-To make a word clickable... first wrap the word(s) in sqaure braces and
-then right beside it add link in normal braces.
+To make a word clickable... first wrap the word(s) in sqaure braces and then right beside it add link in normal braces.
 
 Syntax :  square word square normal_brace link normal_brace
 
-[Manil Dayma](http://www.github.com/manildayma)
+[Manil Dayma](http://www.github.com/manildayma
 
-To show brief description when hovering over
-the clickable words. Similar to syntax above,
-just add th description in inverted commas in
-the last braces after link.
-
+To show brief description when hovering over the clickable words. Similar to syntax above, Just add th description in inverted commas in the last braces after link.
 
 [Manil Dayma](http://www.github.com/manildayma "This is my GitHub profile" )
 
@@ -61,14 +56,10 @@ the last braces after link.
 
 Add the word between the pipes to put it in a table. 
 
-Use "|:---". under every heading.
-Colen is to align the text. put Colen on left 
-for left alignment and on right for right
+Use "|:---". under every heading. Colen is to align the text. put Colen on left for left alignment and on right for right
 alignment. 
 
-TO add another row simply hit enter and
-follow the same rule... to put word between
-the pipes.
+To add another row simply hit enter and follow bethe same rule... to put word between the pipes.
 
 example:  pipe word pipe word pipe
 
@@ -76,7 +67,6 @@ example:  pipe word pipe word pipe
 ## Ordered Lists
 
 Just add a number in from of the point or item you want to list. Numbers need not be any order. For simplicity put a same number in front of the point, i.e, put '1' in front of every point to make an ordered list.
-
 *example :*  (here, '1'is put in fron to every name which gets into orderes list my MARKDOWN)  
 
 
@@ -120,6 +110,12 @@ To add a break in between the line we simply hit enter key twice.
 
 
 ## **Check Lists**
+
+Since it is extended version of lists, so the first thing you need to do is make  a list by adding a star in front of the list items. Then to show unchecked box type a pair of square braces with a space and to show checked box just out a cross (x) innstead of that space.
+
+Syntax : star space sq.brace space/cross sq.brace space word
+
+
 
 * [ ] one 
 * [ ] two 
