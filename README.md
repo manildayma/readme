@@ -60,7 +60,7 @@ Add image syntax in sauare braces and thr link url in normal braces.
 
 *Example -*
 
-[![](link for image)](http://www.github.com/manildayma) 
+[![](http://image.com)](http://www.github.com/manildayma) 
 
 
 
