@@ -45,7 +45,7 @@ To show brief description when hovering over the clickable words. Similar to syn
 
 ## **To Add An Image**
 
-Syntax :  *![]()*
+Syntax :   ! [] () 
 
 Exclamation mark represents that it is an image. In square braces put alternate text for image. In normal bracee put link for the image.
 
