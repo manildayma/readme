@@ -52,19 +52,10 @@ Exclamation mark represents that it is an image. In square braces put alternate 
 
 ![me](link for image)
 
-**To add CLICKABLE IMAGE :**
-
-Syntax : [] ()
-
-Add image syntax in sauare braces and thr link url in normal braces. 
-
-*Example -*
-
-[![](https://www.google.co.in/search?q=image&oq=image&aqs=chrome..69i57j69i59l2j0.3291j0j7&client=ms-android-huawei&sourceid=chrome-mobile&ie=UTF-8#imgrc=kwgHAQqTiLQXLM:)](http://www.github.com/manildayma) 
-
 
 
 ## **To Add A Table**
+
 |NAME|ROLL NO|
 |:----|:----|
 |Manil|012|
