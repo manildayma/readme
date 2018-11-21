@@ -48,8 +48,19 @@ To show brief description when hovering over the clickable words. Similar to syn
 Syntax :   ! [] () 
 
 Exclamation mark represents that it is an image. In square braces put alternate text for image. In normal bracee put link for the image.
+*Example -*
 
-![me](20181107_195611)
+![me](link for image)
+
+**To add CLICKABLE IMAGE :**
+
+Syntax : [] ()
+
+Add image syntax in sauare braces and thr link url in normal braces. 
+
+*Example -*
+
+[![me](link for image)](http://www.github.com/manildayma) 
 
 
 
