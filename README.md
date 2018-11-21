@@ -35,7 +35,7 @@ To make a word clickable... first wrap the word(s) in sqaure braces and then rig
 
 Syntax :  square word square normal_brace link normal_brace
 
-[Manil Dayma](http://www.github.com/manildayma
+[Manil Dayma](http://www.github.com/manildayma)
 
 To show brief description when hovering over the clickable words. Similar to syntax above, Just add th description in inverted commas in the last braces after link.
 
@@ -60,7 +60,7 @@ Add image syntax in sauare braces and thr link url in normal braces.
 
 *Example -*
 
-[![me](link for image)](http://www.github.com/manildayma) 
+[![](link for image)](http://www.github.com/manildayma) 
 
 
 
