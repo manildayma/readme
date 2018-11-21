@@ -45,6 +45,11 @@ To show brief description when hovering over the clickable words. Similar to syn
 
 ## **To Add An Image**
 
+Syntax :  *![]()*
+
+Exclamation mark represents that it is an image. In square braces put alternate text for image. In normal bracee put link for the image.
+
+![me](20181107_195611)
 
 
 
@@ -102,11 +107,6 @@ Double enter to add a line... to separat paragraphs.
 ## **Breaks**
 
 To add a break in between the line we simply hit enter key twice. 
-
-
-## **Blockquotes**
-
-
 
 
 ## **Check Lists**
