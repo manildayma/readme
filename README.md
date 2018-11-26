@@ -41,7 +41,20 @@ To show brief description when hovering over the clickable words. Similar to syn
 
 [Manil Dayma](http://www.github.com/manildayma "This is my GitHub profile" )
 
+To add same link at multiple places : 
 
+Links below are for GitHub, click any link to direct for GitHub page .
+
+[link1][1]
+
+[link2][1]
+
+[link3][1]
+
+[link4][1]
+
+
+[1] : github.com
 
 ## **To Add An Image**
 
