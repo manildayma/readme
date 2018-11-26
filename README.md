@@ -54,7 +54,7 @@ Links below are for GitHub, click any link to direct for GitHub page .
 [link4][1]
 
 
-[1] : github.com
+[1]: github.com
 
 ## **To Add An Image**
 
